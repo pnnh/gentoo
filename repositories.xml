@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>larry</name>
+    <description />
+    <owner>
+      <email>larry@coloc.cc</email>
+      <name>larry</name>
+    </owner>
+    <source type="git">https://github.com/pnnh/larry.git</source>
+  </repo>
+</repositories>
